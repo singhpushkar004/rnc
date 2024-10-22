@@ -1,0 +1,86 @@
+/*span {
+   background: linear-gradient(to top, #035a95 0%, #0498bd 100%);
+}
+*/
+body{
+   font-family: poppins;
+}
+.im
+{
+   background-image: url('../images/contact.avif');
+   background-repeat:no-repeat;
+   width: 100%;
+   background-attachment: fixed;
+   background-size: cover;
+   background:linear-gradient(to top, #035a95 0%,#0498bd 100%);
+   height: 50vh;
+}
+
+.imgs{
+   background-image: url('../images/dark.avif');
+   background-repeat:no-repeat;
+   width: 100%;
+   background-position: fixed;
+   background-size: cover;
+   height: 50vh;
+}
+.about{
+   background-image: url('../images/slider1.jpg');
+   background-repeat:no-repeat;
+   background-position: fixed;
+   background-size: cover;
+   height: 50vh;
+}
+.catig{
+   background-image: url('../images/cat1.jpg');
+   background-repeat:no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   height: 50vh;
+  
+}
+.tranning{
+   background-image: url('../images/hr.jpg');
+   background-repeat:no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   height: 50vh;
+}
+.trannings{
+   background-image: url('../images/hr.jpg');
+   background-repeat:no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   height: 100vh;
+}
+.ims
+{
+   background-image: url('../images/contact.avif');
+   background-repeat:no-repeat;
+   width: 100%;
+   background-attachment: fixed;
+   background-size: cover;
+   background:linear-gradient(to top, #035a95 0%,#0498bd 100%);
+   height: 100vh;
+}
+.imspr
+{
+   background-image: url('../images/contact.avif');
+   background-repeat:no-repeat;
+   width: 100%;
+   background-attachment: fixed;
+   background-size: cover;
+   background:linear-gradient(to top, #035a95 0%,#0498bd 100%);
+   height: 125vh;
+}
+ul{
+   list-style-type: none;
+}
+ul li a{
+   text-decoration: none;
+   color:white;
+   padding:20px;
+}
+ul li a:hover{
+   color:black;
+}
